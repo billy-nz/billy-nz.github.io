@@ -8,7 +8,7 @@ The antiplatelet drug - aspirin - reduces the risk of cardiovascular disease (CV
 
 ---
 ## Case 2
-The dissimation of research in prognostic risk prediction is not limited to a journal publication. Once risk models have been developed and peer-reviewed, it is necessary to consistently implement such models across new and unseen datasets. Further research involving model validation also require consistent model implementation. As such, an R package was developed to enable researchers a means of consistently, efficently, and accurately apply various risk models to their datasets. [See Github Repo.](https://github.com/billy-nz/PredictRiskScores/)
+The dissimation of research in prognostic risk prediction is not limited to a journal publication. Once risk models have been developed and peer-reviewed, it is necessary to consistently implement such models across new and unseen datasets. Further research involving model validation also require consistent model implementation. As such, an R package was developed to enable researchers a means of consistently, efficently, and accurately apply various risk models to their datasets. [See Github Repo.](PredictRiskScores/)
 
 
 ---
