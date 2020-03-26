@@ -1,7 +1,12 @@
 title: Billy Wu # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I work for the University of Auckland in the field of public health. My areas of expertise include data management, big data manipulation, analytics interface development, and machine learning for classification.
+  <b>Hi!</b>
   <br><br>
+  I work in the field of public health research. My areas of expertise include data management, big data manipulation, analytics interface development, and machine learning for classification.
+  <br><br>
+  Email: billy@korubi.co.nz
+  <br><br>
+  <a href="https://unidirectory.auckland.ac.nz/profile/billy-wu">View My Research Profile</a> 
   
 theme: jekyll-theme-minimal
