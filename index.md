@@ -2,7 +2,7 @@
 
 ---
 ## Case 1
-The antiplatelet drug - aspirin - reduces the risk of cardiovascular disease (CVD) in some patients but does this benefits outweigh its bleeding harm? A web-based risk calculator was developed to provide clinicians with individualised estimates of the CVD benefit and bleeding harm of aspirin for their patients without established CVD. [See full details.](/pages/case1_aspirin)
+The antiplatelet drug - aspirin - reduces the risk of cardiovascular disease (CVD) in some patients but does this benefits outweigh its bleeding harm? A web-based risk calculator was developed to provide clinicians with individualised estimates of the CVD benefit and bleeding harm of aspirin for their patients without established CVD. [See full details.](AspirinCVDBleed/)
 
 <img src="images/case1.jpg?raw=true"/>
 
