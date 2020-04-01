@@ -8,5 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Email: billy@korubi.co.nz
   <br><br>
   <a href="https://unidirectory.auckland.ac.nz/profile/billy-wu">View My Research Profile</a> 
+  <br><br>
+  <a href="https://github.com/VIEW2020">View My Research Github</a> 
   
 theme: jekyll-theme-minimal
